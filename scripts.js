@@ -340,7 +340,7 @@ for (var i = 0; i < opBtn.length; i++) {
       }
     }
     else{
-      result.value = "0";
+      result.value = "";
       isEquClicked = 0;
     }
   })
